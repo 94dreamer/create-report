@@ -21,6 +21,7 @@ const ReposChatMap = {
   "tdesign-vue-next": 'wrkSFfCgAAPZa290oL705CNv6n-WbwGg', // vue-next 开发
   "tdesign-react": 'wrkSFfCgAAPlL99uaYADudmASDX6Zr5A',  // react 开发
   "tdesign-mobile-vue": 'wrkSFfCgAAKH2P73DIk9nhfg6ee8p5Ug', // mobile-vue 开发
+  "tdesign-mobile-react": 'wrkSFfCgAACVRQ-iTlDE6R9s5I5x-nuQ', // mobile-react 开发
   "tdesign-miniprogram": 'wrkSFfCgAAoJHyu-iosrrJmTA1s3sXTw', // 小程序 开发
   "tdesign-common": 'wrkSFfCgAA4Fl-aGGepTzgf19KUSP1fA', // common
   "tdesign-starter-cli": 'wrkSFfCgAAt30mIhKX8z1PaUSflhqeDg',//starter
